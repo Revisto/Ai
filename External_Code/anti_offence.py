@@ -268,5 +268,5 @@ def anti_offence(inp):
     ]
     for item in swears:
         if item in inp:
-            return random.choice(swears)
+            return random.choice(': |','زشته این کلمات','ترجیح میدم جواب ندم','| :','من دیگه حرفی ندارم','لطفا شما هم از این کلمات استفاده نکنید')
     return False
