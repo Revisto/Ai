@@ -614,7 +614,13 @@ def DATA_intents(text):
 
 
 
-
+        {"Tag": "Fun",
+        "MustBeKeywords": [['گیم','بازی' ]],
+        "FirstLayerKeywords": ['گیم','بازی'],
+        "SecoundLayerKeywords": [],
+        "Answers": ['href,بزن بریم بازی کنیم!,http://game.madadbot.ir/'],
+        "Actions": [],
+        },
 
 
 
